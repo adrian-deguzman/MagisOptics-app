@@ -6,7 +6,7 @@ This project develops a machine learning-based system for classifying Diabetic R
 
 https://github.com/user-attachments/assets/84b24611-e695-48d8-b916-3cb78947261f
 
-🎥 **This video provides a quick run-through of the entire Django web application.** It highlights how users can upload retinal images and receive immediate DR classification results. The demo showcases:
+**This video provides a quick run-through of the entire Django web application.** It highlights how users can upload retinal images and receive immediate DR classification results. The demo showcases:
 - The web app’s simple and clean UI
 - Real-time predictions using **U-Net** model.
 - How each model contributes to the classification decision
