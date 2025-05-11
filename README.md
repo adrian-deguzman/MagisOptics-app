@@ -2,7 +2,7 @@
 
 This project develops a machine learning-based system for classifying Diabetic Retinopathy (DR) stages using deep learning models. The system is integrated with a Django web application that allows users to upload retinal images and receive real-time predictions. The models used include Decision Tree, ResNet-18, and U-Net CNN, which are trained on the Diabetic Retinopathy dataset.
 
-## 📹 Video Demo
+## Video Demo
 
 https://github.com/user-attachments/assets/84b24611-e695-48d8-b916-3cb78947261f
 
