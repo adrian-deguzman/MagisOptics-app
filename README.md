@@ -24,3 +24,5 @@ Diabetic Retinopathy (DR) is a leading cause of preventable blindness. Early det
 - **Real-time Prediction**: Upload retinal images to the web application and get predictions on the severity of DR.
 - **Model Integration**: The Django app uses three different models to provide classification results.
 - **Evaluation**: The models are evaluated with accuracy, precision, recall, and F1-score metrics.
+
+Big thanks to Mary Barbie Barrion for the backend, and Jervie Manabat for ResNet and frontend.
